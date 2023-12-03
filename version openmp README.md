@@ -28,6 +28,11 @@ Paso 3) Ejecutar el comando: ./version_openmp [Nombre imagen] [Nombre imagen a e
 
 4 seria el numero de hilos que se van a usar para convertir la imagen a escala de grises.
 
+Y el resultado es el siguiente:
+
+![imagen (copia)](https://github.com/manu22sg/Tarea-2-Sistemas-Operativos/assets/135477227/680d15d9-df15-4da4-abed-ec6e76d79c9a)
+Tiempo de ejecucion total: 0.005492000 segundos
+
 # ¿Que entrega como resultado?
 Lo que entrega como resultado es la imagen a escala de grises y el tiempo de ejecución que demoro el programa en pintar los pixeles de la imagen a escala de grises.
 # A TENER EN CUENTA
