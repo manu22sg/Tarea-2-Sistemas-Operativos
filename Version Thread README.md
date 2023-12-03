@@ -16,10 +16,10 @@ Paso 1) Entrar a la carpeta en la cual se descargó el proyecto. Esto se puede h
 
 Paso 2) Ejecutar el siguiente comando: "make -f Makefile_paralela". De está forma, se comprueba que el programa compilé y esté listo para su uso.
 
-Paso 3) Ejecutar el comando: ./version_paralela [Nombre imagen] [nombre imagen a escala de grises]
+Paso 3) Ejecutar el comando: ./version_paralela [Nombre imagen] [nombre imagen a escala de grises] [numero de hilos]
 
 # Ejemplo de la ejecución
-./version_paralela /home/manu/Escritorio/imagen1.jpg /home/manu/Escritorio/imagen2.jpg 8.
+./version_paralela /home/manu/Escritorio/imagen1.jpg /home/manu/Escritorio/imagen2.jpg 8
 
 "/home/manu/Escritorio/imagen1.jpg" es la dirección dentro del computador en que está la imagen que hay que convertir a escala de grises.
 
