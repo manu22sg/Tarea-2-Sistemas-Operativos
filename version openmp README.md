@@ -17,7 +17,7 @@ Paso 1) Entrar a la carpeta en la cual se descargó el proyecto. Esto se puede h
 
 Paso 2) Ejecutar el siguiente comando: "make -f Makefile_openmp". De está forma, se comprueba que el programa compilé y esté listo para su uso.
 
-Paso 3) Ejecutar el comando: ./version_openmp [Nombre imagen] [nombre imagen a escala de grises]
+Paso 3) Ejecutar el comando: ./version_openmp [Nombre imagen] [Nombre imagen a escala de grises] [Numero de hilos]
 
 # Ejemplo de la ejecucion
 ./version_openmp /home/manu/Escritorio/imagen1.jpg /home/manu/Escritorio/imagen2.jpg 4.
