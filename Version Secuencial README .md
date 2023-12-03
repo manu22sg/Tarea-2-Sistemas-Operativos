@@ -26,6 +26,14 @@ Paso 3) Ejecutar el comando: ./version_secuencial [Nombre imagen] [nombre imagen
 
 "/home/manu/Escritorio/imagen2.jpg." sería la dirección dentro del equipo en la que se guardará la imagen convertida a escala de grises.
 
+Y el resultado es el siguiente:
+
+![imagen (copia)](https://github.com/manu22sg/Tarea-2-Sistemas-Operativos/assets/135477227/680d15d9-df15-4da4-abed-ec6e76d79c9a)
+Tiempo de ejecucion: 0.007103000 segundos.
+
+Conversion a escala de grises completada.
+
+
 # ¿Que entrega como resultado?
 Lo que entrega como resultado es la imagen a escala de grises y el tiempo de ejecución que demoro el programa en pintar los pixeles a escala de gris de forma secuencial
 # A tener en cuenta
